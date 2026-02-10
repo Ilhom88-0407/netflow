@@ -5,26 +5,48 @@ netflow presintation
 Қуйидаги мавзулар қамраб олинди:
 
 Асосий тушунчалар (1-5 саҳифа):
+
 NetFlow нима? - Кириш, аҳамияти
+
 Оқимларни тушуниш - 5-Tuple тушунчаси
+
 Архитектура - Exporter, Collector, Analyzer
+
 Оқим майдонлари - Metadata тузилиши
+
 Версиялар - v5, v9, IPFIX
+
 Техник тафсилотлар (6-10 саҳифа):
+
 Timeoutlar - Faol va nofaol
+
 Sampling - Texnikalar ва коэффициентлар
+
 Транспорт - UDP, SCTP, TCP
+
 Bandwidth monitoring - Истеъмолчиларни аниқлаш
+
 Хавфсизлик - DDoS, C2, skanerlash
+
 Таққослаш ва конфигурация (11-15 саҳифа):
+
 NetFlow vs SNMP - Фарқлар
+
 NetFlow vs sFlow - Танлаш қоидалари
+
 Flexible NetFlow - Мослашувчанлик
+
 Конфигурация - Созлаш қадамлари
+
 Muammolarni bartaraf etish - Диагностика
+
 Илғор мавзулар (16-20 саҳифа):
+
 SIEM интеграцияси - Хавфсизлик корреляцияси
+
 Cloud Flow Logs - AWS, Azure, GCP
+
 Eng yaxshi amaliyotlar - Стратегия ва архитектура
+
 Чекловлар - Маҳдудиятлар
 Kelajak - AI, ML, kelasi технологиялар
